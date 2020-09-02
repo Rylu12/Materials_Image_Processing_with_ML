@@ -2,4 +2,4 @@
 Image segmentation using machine learning for materials science
 
 I wrote a blog post on the project here:
-https://rylu1.com/2020/08/29/image-processing-with-machine-learning/
+https://rylu1.com/2020/09/01/image-processing-with-machine-learning/
